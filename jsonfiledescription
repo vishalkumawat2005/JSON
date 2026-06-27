@@ -1,0 +1,13 @@
+JSON stands for JavaScript Object Notation.
+It is a lightweight, text-based format used to store and exchange data between applications.
+Although JSON originated from JavaScript, it is language-independent and is supported by Python, Java, C++, C#, PHP, and many other programming languages.
+Why is JSON Used?
+JSON is used to:
+Store data permanently
+Exchange data between client and server
+Send data through APIs
+Save application settings
+Store configuration files
+Transfer data between different programming languages
+
+
