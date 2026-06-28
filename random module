@@ -1,0 +1,20 @@
+
+import random
+print(random.random())
+print(random.randint(1,10))
+print(random.randrange(1,10))
+name=["vishal","ayush","piyush"]
+print(random.choices(name,k=3))
+print(random.choice(name))
+list1=[1,23,4,5,3]
+print(random.sample(list1,k=3))
+
+for i in range(1,10):
+  print(i)
+
+import random
+random.seed(10)
+print(random.randint(1,1000))
+
+
+
